@@ -1,0 +1,1 @@
+![Alt text](documentation/project_structure.png)
